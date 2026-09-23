@@ -82,9 +82,9 @@ A React-based technology stack builder where users can explore technologies and 
 - Responsive design
 - Toast notifications
 
-🔗 **Live Demo:** [View Project](YOUR_LIVE_LINK)
+🔗 **Live Demo:** [https://dev-stack-alfi.netlify.app/)
 
-🔗 **Repository:** [GitHub Repository](YOUR_GITHUB_REPOSITORY_LINK)
+🔗 **Repository:** [https://github.com/sabbir-shariar58878/My-First-Github.git)
 
 ---
 
@@ -122,7 +122,7 @@ A React-based technology stack builder where users can explore technologies and 
 
 </p>
 
-📧 **Email:** your-email@example.com
+📧 **Email:** sabbirshariar61@gmail.com
 
 📍 **Location:** Dhaka, Bangladesh
 
