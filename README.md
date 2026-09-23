@@ -62,9 +62,9 @@ A responsive food/product-based website built with modern frontend technologies.
 
 **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
 
-🔗 **Live Demo:** [View Project](YOUR_LIVE_LINK)
+🔗 **Live Demo:** [https://natures-platter-grocery-alfi.netlify.app/)
 
-🔗 **Repository:** [GitHub Repository](YOUR_GITHUB_REPOSITORY_LINK)
+🔗 **Repository:** [https://github.com/sabbir-shariar58878/Nature-s-platter-b14-m25.git)
 
 ---
 
