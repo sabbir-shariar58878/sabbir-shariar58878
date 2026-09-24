@@ -1,42 +1,44 @@
-# Hi, I'm Sabbir Shariar 👋
+# 👋 Hi, I'm Sabbir Shariar
 
 ### 💻 Full-Stack Web Developer
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=220&section=header&text=Sabbir%20Shariar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=220&section=header&text=Sabbir%20Shariar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55" width="100%"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Web Developer from Dhaka, Bangladesh.  
+I'm a passionate **Full-Stack Web Developer** from **Dhaka, Bangladesh**.
 I enjoy building modern, responsive, and user-friendly web applications.
 
-I'm currently improving my skills in modern JavaScript technologies and full-stack development. My goal is to build real-world applications and work with clients and teams from around the world.
+I'm continuously improving my skills in modern web technologies and working on real-world projects to strengthen my development experience.
 
-- 🌱 Currently learning **React, Next.js, TypeScript & Node.js**
-- 💻 Working on **Full-Stack Web Development projects**
-- 🎨 Building responsive websites with **Tailwind CSS**
-- 🚀 Exploring modern web development tools and technologies
-- 📚 Practicing problem solving and writing clean, maintainable code
-- 🎯 Goal: Become a professional **Full-Stack Web Developer**
+* 🌱 Currently learning **React, Next.js, TypeScript & Node.js**
+* 💻 Building **Full-Stack Web Development projects**
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🚀 Exploring modern JavaScript technologies
+* 📚 Improving problem-solving and clean coding skills
+* 🎯 Working toward becoming a professional **Full-Stack Web Developer**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Frontend
+### 🎨 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,mongodb,mysql,firebase" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,docker" />
@@ -46,11 +48,11 @@ I'm currently improving my skills in modern JavaScript technologies and full-sta
 
 ## 🚀 Current Activities
 
-- 🔭 I'm currently working on **Full-Stack Web Development projects**
-- 🌱 I'm exploring **Next.js and modern React development**
-- 🧩 I'm improving my **TypeScript** skills
-- 🎨 I'm practicing responsive UI design with **Tailwind CSS**
-- ⚡ I'm learning how to build scalable and production-ready web applications
+* 🔭 Working on **Full-Stack Web Development projects**
+* 🌱 Exploring **Next.js and modern React development**
+* 🧩 Improving my **TypeScript** skills
+* 🎨 Practicing responsive UI development with **Tailwind CSS**
+* ⚡ Learning to build scalable and production-ready web applications
 
 ---
 
@@ -58,13 +60,25 @@ I'm currently improving my skills in modern JavaScript technologies and full-sta
 
 ### 🛒 Nature's Platter
 
-A responsive food/product-based website built with modern frontend technologies.
+A responsive grocery and food-based website built with modern frontend technologies.
 
-**Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS
+**Tech Stack**
 
-🔗 **Live Demo:** [https://natures-platter-grocery-alfi.netlify.app/)
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
 
-🔗 **Repository:** [https://github.com/sabbir-shariar58878/Nature-s-platter-b14-m25.git)
+**Features**
+
+* 🛍️ Product showcase
+* 📱 Responsive design
+* 🎨 Modern user interface
+* 🧾 Product and offer sections
+* 📞 Services and contact sections
+
+🔗 **Live Demo:**
+https://natures-platter-grocery-alfi.netlify.app/
+
+🔗 **GitHub Repository:**
+https://github.com/sabbir-shariar58878/Nature-s-platter-b14-m25
 
 ---
 
@@ -72,19 +86,25 @@ A responsive food/product-based website built with modern frontend technologies.
 
 A React-based technology stack builder where users can explore technologies and create their own development stack.
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Vite, React Toastify
+**Tech Stack**
 
-**Main Features:**
-- Technology cards
-- Add technologies to your stack
-- Duplicate prevention
-- Remove technologies
-- Responsive design
-- Toast notifications
+`React` `TypeScript` `Tailwind CSS` `Vite` `React Toastify`
 
-🔗 **Live Demo:** [https://dev-stack-alfi.netlify.app/)
+**Features**
 
-🔗 **Repository:** [https://github.com/sabbir-shariar58878/My-First-Github.git)
+* 🧩 Technology cards
+* ➕ Add technologies to your stack
+* 🚫 Duplicate prevention
+* 🗑️ Remove technologies
+* 📱 Responsive design
+* 🔔 Toast notifications
+* ⚡ Dynamic UI with React state
+
+🔗 **Live Demo:**
+https://dev-stack-alfi.netlify.app/
+
+🔗 **GitHub Repository:**
+https://github.com/sabbir-shariar58878/My-First-Github
 
 ---
 
@@ -95,7 +115,7 @@ A React-based technology stack builder where users can explore technologies and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirshariar61-create&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sabbirshariar61-create&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -107,39 +127,41 @@ A React-based technology stack builder where users can explore technologies and 
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="YOUR_GITHUB_LINK">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
+  <a href="https://github.com/sabbirshariar61-create">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/>
+  </a>
 </p>
 
-📧 **Email:** sabbirshariar61@gmail.com
-
+📧 **Email:** [sabbirshariar61@gmail.com](mailto:sabbirshariar61@gmail.com)
 📍 **Location:** Dhaka, Bangladesh
 
 ---
 
 ## 💡 Development Philosophy
 
-> "Build it. Break it. Learn from it. Improve it."
+> **Build. Learn. Improve. Repeat.**
 
-I believe in continuous learning, practical projects, clean code, and improving a little every day.
+I believe in continuous learning, practical projects, clean code, and improving my development skills every day.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and working on interesting web development projects.
+I'm interested in learning, collaborating, and working on interesting **web development projects**.
 
-**Thanks for visiting my profile! ⭐**
+If you're interested in web development or collaboration, feel free to connect with me.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer)
+### ⭐ Thanks for visiting my GitHub profile!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer" width="100%"/>
+</p>
+
